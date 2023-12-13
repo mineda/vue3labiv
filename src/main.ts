@@ -7,7 +7,7 @@ import router from './router'
 
 import './assets/main.css'
 
-axios.defaults.baseURL="https://8080-mineda-springboot3labiv-hkgigshkty9.ws-us104.gitpod.io/"
+axios.defaults.baseURL="https://8080-mineda-springboot3labiv-hkgigshkty9.ws-us106.gitpod.io/"
 
 const app = createApp(App)
 
